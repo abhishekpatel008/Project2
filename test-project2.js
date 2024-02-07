@@ -1,4 +1,5 @@
 'use strict';
+/*global TemplateProcessor*/
 
 /*
  * This file tests the Project #2 JavaScript assignment problems. It prints what
