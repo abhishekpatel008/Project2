@@ -8,7 +8,7 @@
  */
 
 /* eslint-env browser, node */
-
+(function(){
 // Result message for Problems 1-3
 var p1Message = 'SUCCESS';
 var p2Message = 'SUCCESS';
@@ -154,3 +154,5 @@ window.onload = function () {
   document.getElementById('p2').innerHTML = p2Message;
   document.getElementById('p3').innerHTML = p3Message;
 };
+
+}());
